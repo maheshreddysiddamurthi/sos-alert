@@ -1,0 +1,2 @@
+a="tttttttt"
+print(a)
