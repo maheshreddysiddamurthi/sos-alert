@@ -1,0 +1,17 @@
+# Install PyTorch and Torchaudio for ML and sound
+torch==2.2.0
+torchaudio==2.2.0
+
+# For recording and processing audio
+numpy==1.26.4
+librosa==0.10.1
+matplotlib==3.10.1
+
+# For building AI agents and LLM logic
+langchain==0.2.6
+langchain-core==0.2.10
+langsmith>=0.1.17,<0.2.0
+tenacity==8.2.3
+openai==1.76.0
+crewai==0.117.1
+autogen==0.9
